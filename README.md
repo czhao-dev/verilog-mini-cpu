@@ -33,7 +33,9 @@ This system mimics the basic structure of a tiny processor. It performs ALU oper
 
 
 ## Project Structure
-verilog-mini-cpu/
+
+```
+.
 ├── src/
 │   ├── alu.v
 │   ├── control_unit.v
@@ -43,7 +45,7 @@ verilog-mini-cpu/
 │   └── top_tb.v
 ├── README.md
 └── Makefile
-
+```
 
 ## Simulation Instructions
 
