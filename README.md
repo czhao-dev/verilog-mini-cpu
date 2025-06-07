@@ -1,6 +1,6 @@
 # Mini 4-bit ALU-Based CPU in Verilog
 
-This is a modular Verilog hardware design project that implements a simplified, CPU-like system using a 4-bit Arithmetic Logic Unit (ALU), a two-register register file, and a control unit. It's designed to be easy to simulate, understand, and extend — making it a great educational tool and portfolio piece.
+This is a modular Verilog hardware design project that implements a simplified, CPU-like system using a 4-bit Arithmetic Logic Unit (ALU), a two-register register file, and a control unit.
 
 
 ## System Overview
