@@ -69,7 +69,7 @@ gtkwave waveform.vcd
 
 ## License
 
-This project is open-source under the MIT License. Feel free to use, modify, and share.
+This project is open-source under the Apache-2.0 License. Feel free to use, modify, and share.
 
 ## Contributing
 
